@@ -1,9 +1,10 @@
-# ** **
+# **Building A Virtual AI Keyboard Using CV On Pycham IDE**
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 
 Download Additional Files :
-• This repository consists of files required to deploy a 
+VENV: https://drive.google.com/drive/folders/1vGHtBeE1i5-WN21PNBWB_bb2Gh5dMake?usp=sharing
+• This repository consists of files required to deploy  A Virtual AI Keyboard
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
@@ -14,6 +15,7 @@ Download Additional Files :
 
 
 ## Deployment
+  
 
   
 ## Installation
@@ -22,8 +24,10 @@ To install the libraries used in this project. Follow the
 below steps:
 
 ```bash
-
-
+import cv2
+from cvzone.HandTrackingModule import HandDetector
+from time import sleep
+from pynput.keyboard import Controller
 ```
     
 ## Running Flask Api
