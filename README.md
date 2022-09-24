@@ -15,9 +15,8 @@ VENV: https://drive.google.com/drive/folders/1vGHtBeE1i5-WN21PNBWB_bb2Gh5dMake?u
 
 
 ## Deployment
-  
+ 1. Model Building and Tuning
 
-  
 ## Installation
 
 To install the libraries used in this project. Follow the 
